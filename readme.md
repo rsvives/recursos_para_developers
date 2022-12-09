@@ -1,4 +1,4 @@
-# Recursos para desarrolladores ~~noobs~~
+# Recursos para ~~noobs~~ desarrolladores
 
 ## 🔝 Cursos gratis
 
