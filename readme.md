@@ -6,6 +6,7 @@
 - [HTML, CSS, JavaScript y React](https://scrimba.com/pricing)
 - [freeCodeCamp | +9000 tutoriales](https://www.freecodecamp.org/)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
+- [Kaggle | Machine Learning Courses](https://www.kaggle.com/)
 
 ## 🤓 Cursos de Harvard Gratis
 
