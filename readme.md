@@ -24,6 +24,8 @@
 - [Coolors | Esquemas de colores](https://www.pexels.com/es-es/)
 - [Adobe Colors | Esquemas de colores](https://color.adobe.com/es/explore)
 - [Looka | Diseño de logos](https://looka.com)
+- [Removebg | Para quitar fondo de las imagenes ](https://www.remove.bg/es)
+
 
 ## 🎨 Software de diseño
 
