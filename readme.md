@@ -23,6 +23,7 @@
 - [Pexels | Imágenes](https://www.pexels.com/es-es/)
 - [Coolors | Esquemas de colores](https://www.pexels.com/es-es/)
 - [Adobe Colors | Esquemas de colores](https://color.adobe.com/es/explore)
+- [Looka | Diseño de logos](https://looka.com)
 - [Removebg | Para quitar fondo de las imagenes ](https://www.remove.bg/es)
 
 
@@ -31,6 +32,7 @@
 - [Figma | Diseño de interfaces](https://www.figma.com/)
 - [Blender | Diseño 3D](https://www.figma.com/)
 - [Inkscape | Diseño vectorial](https://inkscape.org/es/)
+
 
 ## 🕹 Desarrollo de videojuegos
 
