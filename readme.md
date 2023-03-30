@@ -23,6 +23,8 @@
 - [Pexels | Imágenes](https://www.pexels.com/es-es/)
 - [Coolors | Esquemas de colores](https://www.pexels.com/es-es/)
 - [Adobe Colors | Esquemas de colores](https://color.adobe.com/es/explore)
+- [Removebg | Para quitar fondo de las imagenes ](https://www.remove.bg/es)
+
 
 ## 🎨 Software de diseño
 
